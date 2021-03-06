@@ -9,4 +9,8 @@
         path: ssh/config
         create: true
 
+- create:
+    - ~/.npm-global
 
+- shell:
+    - npm config set prefix '~/.npm-global'
