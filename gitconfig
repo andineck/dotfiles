@@ -1,0 +1,7 @@
+[pull]
+	ff = only
+[credential]
+	helper = store --file ~/.my-credentials
+[user]
+	email = andi.neck@intesso.com
+	name = Andi Neck
