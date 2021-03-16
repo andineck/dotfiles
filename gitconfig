@@ -5,3 +5,5 @@
 [user]
 	email = andi.neck@intesso.com
 	name = Andi Neck
+[alias]
+	save = "!git add -A && git commit -m "

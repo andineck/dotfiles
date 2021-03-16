@@ -15,3 +15,5 @@
 
 - shell:
     - npm config set prefix '~/.npm-global'
+    - git config --global alias.save '!git add -A && git commit -m '
+    - ./install_apps.sh
