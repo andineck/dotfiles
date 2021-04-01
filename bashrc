@@ -223,3 +223,4 @@ source $OSH/oh-my-bash.sh
 
 alias idea='intellij-idea-ultimate'
 alias open='nautilus'
+alias root='nautilus admin:///'

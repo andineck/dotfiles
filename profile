@@ -28,4 +28,6 @@ fi
 
 [ -s "/home/andineck/.jabba/jabba.sh" ] && source "/home/andineck/.jabba/jabba.sh"
 
+export PATH=$PATH:/usr/local/bin
 export PATH=~/.npm-global/bin:$PATH
+
